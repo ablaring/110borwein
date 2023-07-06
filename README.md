@@ -5,7 +5,7 @@
 '110borwein' is a first-year mathematics project at Epitech.
 It involves the computation of Borwein integrals using various numerical integration methods: the midpoint rule, the trapezoidal rule, and Simpson's rule.
 The focus is not only on deriving the value of In, but also on determining the absolute difference between In and π.
-The limit of the integral for this project is set to 5000. As a beginner in English, I welcome any feedback on the readability and understandability of my documentation.
+The limit of the integral for this project is set to 5000. 
 ## Install and Run the project
 ### Requirements
 ---
